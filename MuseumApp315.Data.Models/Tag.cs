@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MuseumApp315.Data.Model
+namespace MuseumApp315.Data.Models
 {
-    public class Class1
+    public class Tag
     {
+        public int TagId { get; set; }
+        public string Name { get; set; }
     }
 }

@@ -11,6 +11,8 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using MuseumApp315.Models;
+using MuseumApp315.Data.Models;
+using MuseumApp315.Data;
 
 namespace MuseumApp315
 {

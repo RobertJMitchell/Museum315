@@ -6,6 +6,8 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
 using MuseumApp315.Models;
+using MuseumApp315.Data;
+using MuseumApp315.Data.Models;
 
 namespace MuseumApp315
 {
