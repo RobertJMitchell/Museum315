@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22609.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseumApp315", "MuseumApp315\MuseumApp315.csproj", "{03FFDB3F-D900-4917-AD67-F2178477014A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseumApp315.Data", "MuseumApp315.Data\MuseumApp315.Data.csproj", "{2BFEA5FF-0611-40D8-9917-6DB510CD198E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseumApp315.Data.Model", "MuseumApp315.Data.Model\MuseumApp315.Data.Model.csproj", "{20DA8029-9F8F-4957-A9B2-AF1A0836B636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03FFDB3F-D900-4917-AD67-F2178477014A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03FFDB3F-D900-4917-AD67-F2178477014A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03FFDB3F-D900-4917-AD67-F2178477014A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03FFDB3F-D900-4917-AD67-F2178477014A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BFEA5FF-0611-40D8-9917-6DB510CD198E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFEA5FF-0611-40D8-9917-6DB510CD198E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFEA5FF-0611-40D8-9917-6DB510CD198E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFEA5FF-0611-40D8-9917-6DB510CD198E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DA8029-9F8F-4957-A9B2-AF1A0836B636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DA8029-9F8F-4957-A9B2-AF1A0836B636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DA8029-9F8F-4957-A9B2-AF1A0836B636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DA8029-9F8F-4957-A9B2-AF1A0836B636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
